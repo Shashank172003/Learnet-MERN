@@ -38,10 +38,6 @@
 
 ---
 
-## 📁 Folder Structure
-
----
-
 ## 📷 Screenshots
 
 Below are some UI previews from the project:
