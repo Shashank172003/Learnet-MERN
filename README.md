@@ -4,7 +4,7 @@
 
 ---
 🎓 **This project is a part of my learning journey as an MCA student, built to explore and implement full-stack development concepts using the MERN stack.**
-
+---
 ## 🚀 Features
 
 - 🔐 **Authentication**
