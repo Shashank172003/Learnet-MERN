@@ -3,7 +3,7 @@
 **Learnet** is a full-featured e-learning platform built using the **MERN stack** (MongoDB, Express.js, React, Node.js). It allows instructors to create and publish courses, and students to browse, enroll, and learn from them.
 
 ---
-<sub>🎓 This project was developed as part of my 2nd semester MCA curriculum to strengthen my skills in full-stack development using the MERN stack.</sub>
+<small>🎓 This project was developed as part of my 2nd semester MCA curriculum to strengthen my skills in full-stack development using the MERN stack.</small>
 
 ---
 ## 🚀 Features
